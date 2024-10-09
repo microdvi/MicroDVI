@@ -1,2 +1,2 @@
 ## inputs
-+ ### The experiments of a research question 4 use the web app graph of the proposed approach.
++ ### In a research question 4, only the web app graphs of the proposed approach are used.
