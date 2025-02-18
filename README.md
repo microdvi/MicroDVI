@@ -4,15 +4,15 @@ This package includes the datasets utilized in the study mentioned in the paper.
 
 ## Subject web applications
 + ### [JPetStore2](https://github.com/KimJongSung/jPetStore)
-    - JPetStore2 is a full web application that provides an online pet store system, built on the frameworks Spring 3 and MyBatis 2.
+  JPetStore2 is a full web application that provides an online pet store system, built on the frameworks Spring 3 and MyBatis 2.
 + ### [JPetStore6](https://github.com/mybatis/jpetstore-6)
-    - JPetStore6 is another version of JPetStore2, built on Spring 5, MyBatis 3, and Stripes.
+  JPetStore6 is another version of JPetStore2, built on Spring 5, MyBatis 3, and Stripes.
 + ### [PetClinic](https://github.com/spring-projects/spring-petclinic)
-    - PetClinic is a veterinary clinic information system built on Spring Boot, using Spring Data JPA for database interaction and Thymeleaf for the user interface. 
+  PetClinic is a veterinary clinic information system built on Spring Boot, using Spring Data JPA for database interaction and Thymeleaf for the user interface. 
 + ### [ShoppingApp](https://github.com/manhduydl/Shopping-web-Jsp-Servlet)
-    - ShoppingApp is a small online store system  based on the JSP Model 2 architecture.
+  ShoppingApp is a small online store system  based on the JSP Model 2 architecture.
 + ### [DayTrader](https://github.com/WASdev/sample.daytrader7)
-    - DayTrader is an online stock trading system based on the JsP Model 2 architecture, using Java EE, JSF, EJB, and JDBC.
+  DayTrader is an online stock trading system based on the JsP Model 2 architecture, using Java EE, JSF, EJB, and JDBC.
 ## Project structure
 + ### Ground truths
   This folder contains the microservice identification results provided by web app experts for the subject web applications.
