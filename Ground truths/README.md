@@ -5,3 +5,4 @@
 + ### "N/U": Not used
     - "N/U" indicates a component that is not used in the web app.
     - Thus, like the common component, this paper does not care about the assignment of unused components to microservices.
+
