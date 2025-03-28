@@ -12,13 +12,13 @@ This package includes the datasets utilized in the study mentioned in the paper.
 + ### [ShoppingApp](https://github.com/manhduydl/Shopping-web-Jsp-Servlet)
   ShoppingApp is a small online store system  based on the JSP Model 2 architecture.
 + ### [DayTrader](https://github.com/WASdev/sample.daytrader7)
-  DayTrader is an online stock trading system based on the JsP Model 2 architecture, using Java EE, JSF, EJB, and JDBC.
+  DayTrader is an online stock trading system based on the JSP Model 2 architecture, using Java EE, JSF, EJB, and JDBC.
 ## Project structure
 + ### Ground truths
   This folder contains the microservice identification results provided by web app experts for the subject web applications.
   In the ground truths, each of labels indicates a particular service.
   
-    - **JPetStore**
+    - **JPetStore2**
       | label | service          |
       |-----------|---------------------|
       | 0         | Order service       |
@@ -27,7 +27,7 @@ This package includes the datasets utilized in the study mentioned in the paper.
       | 3         | Catalog service     |
       | C         | Common component    |
       | N/U       | Not used            |
-    - **JPetStore**
+    - **JPetStore6**
       | label | service          |
       |-----------|---------------------|
       | 0         | Order service       |
